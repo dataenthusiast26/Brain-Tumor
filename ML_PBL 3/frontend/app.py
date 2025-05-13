@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_URL = "http://127.0.0.1:8000"  # Update if running on a different host
+API_URL = "http://13.235.19.43:8000"  # Update if running on a different host
 
 st.title("🧠 Brain Tumor Prediction & AI Medical Assistant")
 
